@@ -1,4 +1,3 @@
-# Write code below 💖
 Gryffindor=0
 Ravenclaw=0
 Hufflepuff=0
@@ -10,7 +9,7 @@ if answer1 == 1:
   Ravenclaw=Ravenclaw+1
 elif answer1 ==2:
   Hufflepuff=Hufflepuff+1
-  Slytherin=Slytherin+1
+  iSlytherin=Slytherin+1
 else:
   print("Wrong input.")
 print("Q2) When I’m dead, I want people to remember me as:\n1) The Good\n2) The Great\n3) The Wise\n4) The Bold")
