@@ -1,1 +1,24 @@
 /.vscode
+
+# Build artifacts
+*.o
+*.obj
+*.out
+a.out
+*.exe
+
+# Compiled C exercise executables (no extension)
+/c/affiche_nbrs
+/c/jkg
+/c/matrice
+/c/moyanne
+/c/moyenne
+/c/moyenne3
+/c/tabl
+/c/tt3
+/c/tttttttt
+/go/hello
+
+# Python bytecode
+__pycache__/
+*.pyc
