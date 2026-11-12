@@ -1,8 +1,22 @@
 # Learning Projects
 
-A sandbox repo for learning and practicing programming across several
-languages. Each folder covers one language with small exercise programs,
-ranging from hello-world basics to small games and TUIs.
+this is a learning projects where i put the code samples in files based on the language
+
+## Projects
+
+- **[learning-projects](https://github.com/Momokh99/learning-projects)** — C — This repository: programming exercises and code samples organized by language.
+- **[NovelFetch](https://github.com/Momokh99/NovelFetch)** — Python — Novel reader & downloader with a Textual TUI and a KivyMD GUI (desktop + Android) over a pluggable scraper core. Browse, translate, and read novels offline.
+- **[My-config](https://github.com/Momokh99/My-config)** — Lua — Arch Linux dotfiles for Hyprland with a Tokyo Night theme (Waybar, Wofi, Yazi, Kitty/Alacritty, Zsh, Neovim, Mako).
+- **[planner-tui](https://github.com/Momokh99/planner-tui)** — Go — Terminal todo list with a week calendar view, built with Bubble Tea and auto-saved to `~/.todo.json`.
+- **[gitprofile](https://github.com/Momokh99/gitprofile)** — Go / Python / C — `gitanalyze`: scans directories for Git repos and prints a GitHub-style contribution grid.
+- **[terminal_games](https://github.com/Momokh99/terminal_games)** — C / Python — Collection of terminal games with a reusable C engine (`libeng.so`) and Python TUIs (rock–paper–scissors, number guessing).
+- **[kh_Assistant](https://github.com/Momokh99/kh_Assistant)** — Python — Personal assistant project (work in progress).
+- **[kh-launcher](https://github.com/Momokh99/kh-launcher)** — Kotlin — App launcher project (work in progress).
+- **[homepage](https://github.com/Momokh99/homepage)** — JavaScript — Customizable new-tab page browser extension; widgets in plain ES modules, no UI framework.
+- **[VMaker](https://github.com/Momokh99/VMaker)** — QML — Interactive QEMU/KVM + libvirt VM creation helper and an Omarchy bar plugin to list/start/stop VMs (fork).
+- **[extensions-source](https://github.com/Momokh99/extensions-source)** — Source code of extensions for [keiyoushi/extensions](https://github.com/keiyoushi/extensions) (fork).
+- **[30-Days-Of-Python](https://github.com/Momokh99/30-Days-Of-Python)** — Python — The 30 Days of Python step-by-step learning challenge (fork).
+- **[Momokh99](https://github.com/Momokh99/Momokh99)** — Profile README: personal intro and current learning notes.
 
 ## Contents
 
