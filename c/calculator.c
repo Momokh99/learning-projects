@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+
 int main() { 
     char opperation = 0;
     double i = 0;
